@@ -3,5 +3,9 @@ Gra zręcznościowa w której sterujemy obiektem po planszy podobnej do planszy 
 Technologia użyta do tego projektu to Python wraz z biblioteką pygame.
 
 
+# Raport I
+
+
+
 
 
