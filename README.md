@@ -11,7 +11,7 @@ Wygląd okna gry:
 ![](Zdjęcia_z_gry/zdjecie_gry.png)
 
 # Raport II
-Do tej pory utworzyłem przeszkody w formie ścian oraz obiekt. Wprowadziłem interakcję między graczem , scianą oraz obiektem. Podczas gdy gracz zbierze cel ten zmienia swoje położenie( Możliwość pojawiania się w przeszkodach została wyeliminowana), a gdy zderzy się z przeszkodą zostaje pokazany komunikat z napisem ''Koniec'' i po 2 sekundach gra rozpoczyna się od początku.
+Do tej pory utworzyłem przeszkody w formie ścian oraz obiekt. Wprowadziłem interakcję między graczem , ścianą oraz obiektem. Podczas gdy gracz zbierze cel ten zmienia swoje położenie( Możliwość pojawiania się w przeszkodach została wyeliminowana), a gdy zderzy się z przeszkodą zostaje pokazany komunikat z napisem ''Koniec'' i po 2 sekundach gra rozpoczyna się od początku.
 Do następnego raportu mam zamiar stworzyć menu w którym wstępnie będzie możliwość wyboru poziomu trudności i muzyki, która będzie puszczana w tle oraz punktacie zdobytych punktów.
 
 Wygląd okna gry:
