@@ -22,7 +22,11 @@ Do tej pory utowrzyłem menu ,a w nim możliwość wyboru poziomu trudności (ł
 
 Wygląd okna gry:
 ![](Zdjęcia_z_gry/menu.png )
+Poziomy
 ![](Zdjęcia_z_gry/lvl.png )
+Muzyka
 ![](Zdjęcia_z_gry/muzyka.png )
+Średni pozioim trudności
 ![](Zdjęcia_z_gry/sredni.png )
+Trudny pozioim trudności
 ![](Zdjęcia_z_gry/trudny.png )
