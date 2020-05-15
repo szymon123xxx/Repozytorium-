@@ -21,4 +21,4 @@ Wygląd okna gry:
 Do tej pory utowrzyłem menu ,a w nim możliwość wyboru poziomu trudności (łatwy , średni ,trudny). W każdym kolejnym zostaje zwiększona liczba przeszkód oraz szybkość poruszania. Dodałem takż możliwość wyboru piosenek ,które będą grały w tle oraz zoptymalizowałem kod pod względem funkcji warunkowych odpowiedzialnych za kolizje. Do następnego raportu mam zamiar stworzyć licznik ,który będzie informował gracza ile pozostału mu czasu na zebranie celu ,dodanie ekeftów dzwiękowych gdy gracz wejdzie w interakcje z celem bądź ścianą oraz licznik życia. 
 
 Wygląd okna gry:
-![](Zdjęcia_z_gry/menu.png =250x250)
+![](Zdjęcia_z_gry/menu.png | width=100)
