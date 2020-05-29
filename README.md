@@ -32,4 +32,5 @@ Trudny pozioim trudności
 ![](Zdjęcia_z_gry/trudny.png )
 
 # Raport IV
+Do tej pory utworzyłem licznik życia , czas w którym cel musi zebrać obiekt oraz dodałem efekty dźwiękowe. Do poprawy zostało mi jescze dopracowanie piosenek ponieważ gdy klikniemy więcej niż raz na daną muzyke zaczyna ona się nawarstwiać. 
 https://youtu.be/9dgaDlOYZSw
